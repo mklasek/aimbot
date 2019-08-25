@@ -13,3 +13,5 @@
 
 #define bone_head 6
 #define bone_chest 4
+
+//outdated
