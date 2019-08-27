@@ -3,7 +3,7 @@ external csgo aimbot
 
 External aimbot/info beep experiment. 
 
-Aimbot thread avoids writing into localplayer's viewangles to aim (too much of a red flag, probably an instant ban) 
+Aimbot thread avoids writing into localplayer's viewangles to aim (probably an instant ban) 
 and instant cursor movement by utilizing an angle P-regulator, converging the angle between forward 
 view vector and the vector from camera location to target to 0° 
 
